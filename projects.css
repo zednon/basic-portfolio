@@ -1,0 +1,68 @@
+.project1 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 300px;
+       border: solid 2px purple;
+}
+
+.proj1b{
+    border: solid 20px pink;
+    height: 300px;
+    float: left;
+   width: 400px;  
+}
+
+
+.project2 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: right;
+       width: 300px;
+       border: solid 2px pink;
+}
+
+.proj2b {
+    border: solid 20px blue;
+}
+
+.project3 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 300px;
+       border: solid 20px blue;
+  
+}
+
+.project4 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: right;
+       width: 300px;
+       border: solid 20px goldenrod;
+    
+}
+
+.project5 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 300px;
+       border: solid 20px green;
+ 
+}
+
+.project6 {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: right;
+       width: 300px;
+       border: solid 20px blueviolet;
+}

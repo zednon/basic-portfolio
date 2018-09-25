@@ -1,0 +1,37 @@
+body {
+	background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+color:navy;
+}
+
+h2 {
+    background-color: plum;
+}
+
+div {
+    margin: 50px 250px 50px 250px;
+    background-color: lightblue
+    
+}
+
+.messageInput {
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+   
+} 
+
+.emailInput {
+    border: 2px solid black;
+    width: 100%;  
+}
+
+.nameInput {
+    border: 2px solid black;
+    width: 100%;  
+}
+
+.returnhome {
+    height: 100%;
+    float: left;
+}
