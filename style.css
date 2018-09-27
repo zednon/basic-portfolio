@@ -24,6 +24,10 @@ h1 {
         
        
 }
+.returnhome {
+    background-color: purple;
+margin: 20px 40px;
+}
 
 .mybio {
     color: green;
@@ -65,7 +69,8 @@ h1 {
 	margin: 10px 250px 20px 200px;
 	z-index: 1000;
     float: right;
-    background-color: white;
+    background-color:  lavender;
+
 }
 
    
