@@ -1,7 +1,0 @@
-
-<!DOCTYPE HTML>
-<html>
-<head>
-<title>Anna Gondring's Portfolio</title>
-<!-- <link rel="stylesheet" type="text/css" href="reset.css"> -->
-<link rel="stylesheet" type="text/css" href="cats.css">
