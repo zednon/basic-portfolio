@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .top {
     background-color: #ffffff;
     height: 50px;
@@ -187,4 +188,195 @@ hr {
     height: 50px;
 border: solid 2px #cccccc;
 } */
+=======
+.top {
+    background-color: #ffffff;
+    height: 50px;
+border: solid 2px #cccccc;
+}
+h1 {
+    position: fixed;
+top: 0;
+left: 5;
+z-index: 999;
+}
+.name {
+    background-color: #4aaaa5;
+    height: 40px;
+    width: 300px; 
+    padding: 16px 10px 30px 20px;
+    margin-left: 200px;
+    font-size: 15px;
+  
+}
+
+body {
+    background-image: url("use_your_illusion.png");
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+
+.Myphoto {
+    padding: 7px 20px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 150px;
+        
+       
+}
+
+.mainbodycontact{
+    border: #cccccc;
+    height: 500px;
+    
+margin-left: 200px;
+background-color: white;
+
+} 
+
+.messageInput {
+border: solid 2px #cccccc;
+
+    width: 80%;
+    float:center;
+    height: 200px;
+   
+} 
+
+.emailInput {
+border: solid 2px #cccccc;
+width: 80%;
+float:center;
+}
+
+.nameInput {
+border: solid 2px #cccccc;
+width: 80%;
+float:center;
+}
+
+
+.mainbody {
+    border: #cccccc;
+    height: 500px;
+    width: 950px;
+margin-left: 300px;
+background-color: white;
+padding: 20px 20px 20px 20px;
+
+
+}
+
+nav{
+    float: right;
+padding: 6px 10px 20px 30px;
+position: fixed;
+top: 0;
+right: 0;
+
+color: teal;
+}
+
+.form {
+    margin-left: 200px;
+}
+
+nav a{
+color: white;    
+}
+
+nav a:hover{
+    color:black;    
+    }
+#send a{
+    color: white;    
+}
+
+#send a:hover{
+    color:black;    
+    }
+
+.cat1 {
+    padding: 16px 16px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 300px;
+       background-color: white;
+       border: solid 2px #cccccc;
+       margin-top: 65px;
+    }
+
+    .cat2 {
+        padding: 16px 16px;
+        clear:both; 
+            height: 200px;
+            float: right;
+           width: 300px;
+           background-color: white;
+           border: solid 2px #cccccc;
+           margin: -196px 20px 20px 20px;
+        }
+
+        .cat3 {
+            padding: 16px 16px;
+            clear:both; 
+                height: 200px;
+                float: left;
+               width: 300px;
+               background-color: white;
+               border: solid 2px #cccccc;
+               margin: 20px 20px 20px -1px;
+            }
+            
+
+            .cat4 {
+                padding: 16px 16px;
+                clear:both; 
+                    height: 200px;
+                    float: right;
+                   width: 300px;
+                   background-color: white;
+                   border: solid 2px #cccccc;
+                   margin: -225px 20px 20px -1px;
+                }
+        
+            
+                .cat5 {
+                    padding: 7px 20px;
+                    clear:both; 
+                        height: 200px;
+                        float: left;
+                       width: 300px;
+                       background-color: white;
+                       border: solid 2px #cccccc;
+                       margin: 20px 20px 20px -1px;
+                    }
+                
+
+
+.Imadethis {
+   
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    color: teal;
+}
+
+/* .footer {
+    background-color: teal;
+    height: 50px;
+border: solid 2px #cccccc;
+} */
+>>>>>>> e29b1334b175313f26420046b913da97997af8a2
 /* Teal color (used for headings and backgrounds): #4aaaa5 */
