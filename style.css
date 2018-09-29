@@ -1,20 +1,30 @@
-body {
-	background-color: oldlace;
-font-family: Arial, Helvetica, sans-serif;
-color:navy;
+.top {
+    background-color: #ffffff;
+    height: 50px;
+border: solid 2px #cccccc;
+}
+h1 {
+    position: fixed;
+top: 0;
+left: 5;
+z-index: 999;
+}
+.name {
+    background-color: #4aaaa5;
+    height: 40px;
+    width: 300px; 
+    padding: 16px 10px 30px 20px;
+    margin-left: 200px;
+    font-size: 15px;
+  
 }
 
-h1 {
-    Background-color: rgb(39, 1, 37);
-    color: lavender;
-	text-align: justify;
-	font: 1000px;
+body {
+    background-image: url("use_your_illusion.png");
+font-family: Arial, Helvetica, sans-serif;
+color: white;
 }
-.myname{
-    float: left;
-        margin-right: 10px;
-        clear:both; 
-}
+
 .Myphoto {
     padding: 7px 20px;
     clear:both; 
@@ -25,70 +35,156 @@ h1 {
        
 }
 
-.mybio {
-    color: green;
-    background-color: white;
+.mainbodycontact{
+    border: #cccccc;
+    height: 500px;
     
-    padding: 20px;
-    float: right; 
-    width: 70.00%;
- 
-  
+margin-left: 200px;
+background-color: white;
+
+} 
+
+.messageInput {
+border: solid 2px #cccccc;
+
+    width: 80%;
+    float:center;
+    height: 200px;
+   
+} 
+
+.emailInput {
+border: solid 2px #cccccc;
+width: 80%;
+float:center;
 }
 
-.sidenav {
-	height: 100%; 
-    width: 120px; 
-    position: fixed; 
-    z-index: 1; 
-    top: 0; 
-    left: 0;
-    background-color: rgb(104, 27, 104); 
-    overflow-x: hidden; 
-	padding-top: 20px;
-	float: left;
+.nameInput {
+border: solid 2px #cccccc;
+width: 80%;
+float:center;
 }
 
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    color: black;
-    display: block;
-}
-
-.sidenav a:hover {
-    color: #f1f1f1;
-}
 
 .mainbody {
-	margin: 10px 250px 20px 200px;
-	z-index: 1000;
+    border: #cccccc;
+    height: 500px;
+    width: 950px;
+margin-left: 300px;
+background-color: white;
+padding: 20px 20px 20px 20px;
+
+
+}
+
+nav{
     float: right;
-    background-color: white;
+padding: 6px 10px 20px 30px;
+position: fixed;
+top: 0;
+right: 0;
+
+color: teal;
 }
 
+.form {
+    margin-left: 200px;
+}
+
+nav a{
+color: white;    
+}
+
+nav a:hover{
+    color:black;    
+    }
+#send a{
+    color: white;    
+}
+
+#send a:hover{
+    color:black;    
+    }
+
+.cat1 {
+    padding: 16px 16px;
+    clear:both; 
+        height: 200px;
+        float: left;
+       width: 300px;
+       background-color: white;
+       border: solid 2px #cccccc;
+       margin-top: 65px;
+    }
+
+    .cat2 {
+        padding: 16px 16px;
+        clear:both; 
+            height: 200px;
+            float: right;
+           width: 300px;
+           background-color: white;
+           border: solid 2px #cccccc;
+           margin: -196px 20px 20px 20px;
+        }
+
+        .cat3 {
+            padding: 16px 16px;
+            clear:both; 
+                height: 200px;
+                float: left;
+               width: 300px;
+               background-color: white;
+               border: solid 2px #cccccc;
+               margin: 20px 20px 20px -1px;
+            }
+            
+
+            .cat4 {
+                padding: 16px 16px;
+                clear:both; 
+                    height: 200px;
+                    float: right;
+                   width: 300px;
+                   background-color: white;
+                   border: solid 2px #cccccc;
+                   margin: -225px 20px 20px -1px;
+                }
+        
+            
+                .cat5 {
+                    padding: 7px 20px;
+                    clear:both; 
+                        height: 200px;
+                        float: left;
+                       width: 300px;
+                       background-color: white;
+                       border: solid 2px #cccccc;
+                       margin: 20px 20px 20px -1px;
+                    }
+                
+
+
+.Imadethis {
    
-
-contactme {
-    color: green;
-    background-color: white;
-    text-align: center;
-    padding: 20px;
-    float: left; 
-  
-    
+    margin-left: 300px;
+    margin-right: 300px;
 }
-/* 
-contactlist {
-    color: green;
-    background-color: white;
-    position: fixed;
-    padding: 20px;
-    float: right; 
-    width: 30.00%;
-    bottom: 0; 
-    right: 0;
- 
-} */
 
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    color: teal;
+}
+
+/* .footer {
+    background-color: teal;
+    height: 50px;
+border: solid 2px #cccccc;
+} */
+/* Teal color (used for headings and backgrounds): #4aaaa5 */
