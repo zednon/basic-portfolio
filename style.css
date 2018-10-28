@@ -1,8 +1,20 @@
-
 .top {
-    background-color: #ffffff;
+    background-color: purple;
     height: 50px;
 border: solid 2px #cccccc;
+}
+
+#info {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: red;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px; 
 }
 h1 {
     position: fixed;
@@ -70,14 +82,14 @@ float:center;
 .mainbody {
     border: #cccccc;
     height: 500px;
-    
+    width: 950px;
 margin-left: 300px;
 background-color: white;
 padding: 20px 20px 20px 20px;
-margin-right: 300px;
+
 
 }
-
+/* 
 nav{
     float: right;
 padding: 6px 10px 20px 30px;
@@ -86,20 +98,19 @@ top: 0;
 right: 0;
 
 color: teal;
-}
+} */
 
 .form {
     margin-left: 200px;
-    
 }
 
-nav a{
+/* nav a{
 color: white;    
-}
+} */
 
-nav a:hover{
+/* nav a:hover{
     color:black;    
-    }
+    } */
 #send a{
     color: white;    
 }
@@ -108,7 +119,7 @@ nav a:hover{
     color:black;    
     }
 
-.cat1 {
+.trivia_game {
     padding: 16px 16px;
     clear:both; 
         height: 200px;
@@ -117,6 +128,10 @@ nav a:hover{
        background-color: white;
        border: solid 2px #cccccc;
        margin-top: 65px;
+    }
+    .trivia_game:hover {
+transform: scale(3);
+float: center;
     }
 
     .cat2 {
@@ -184,8 +199,13 @@ hr {
     color: teal;
 }
 
+
+
+
+
 /* .footer {
     background-color: teal;
     height: 50px;
 border: solid 2px #cccccc;
 } */
+/* Teal color (used for headings and backgrounds): #4aaaa5 */
