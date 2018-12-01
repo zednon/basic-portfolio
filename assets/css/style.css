@@ -1,0 +1,82 @@
+#info {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    color: oldlace;
+    left: 0;
+    background: url(diagonal-squares.png);
+ overflow-x: hidden;
+}
+
+#V4U {
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 200px 20px 500px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(symphony.png);
+}
+
+#main {
+width: 100%;
+
+
+}
+.aboutme {
+    padding: 10px
+}
+ h1{
+    align-items: center;
+    padding: 35px 30px 30px 608px;
+    border: black solid 4px;
+    background: url(vintage-concrete.png);
+    margin: 10px -202px 10px 98px;
+ }
+
+.mybio {
+    padding: 20px;
+}
+
+.Myphoto {
+    height: 150px;
+    width: 100px;
+    padding: 10px;
+}
+
+#triviagame{
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 200px 20px 500px;
+}
+
+
+#Gigty {
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 200px 20px 500px;
+}
+
+
+#TGTSNBN {
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 200px 20px 500px;
+}
+
+#picHP {
+    height: 350px;
+    width: 500px;
+}
+
+#pierce {
+    height: 400px;
+    width: 300px;
+}
+
+/* .projects {
+    border-radius: 1px solid purple;
+} */
