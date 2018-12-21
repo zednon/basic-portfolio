@@ -41,10 +41,21 @@ width: 100%;
     padding: 20px;
 }
 
+#week12{
+    height: 350px;
+    width: 500px;   
+}
+
 .Myphoto {
     height: 150px;
     width: 100px;
     padding: 10px;
+}
+
+#bamazon {
+    align-content: center;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 200px 20px 500px;    
 }
 
 #triviagame{
